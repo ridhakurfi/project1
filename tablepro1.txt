@@ -7,5 +7,5 @@ address varchar(100),
 phone varchar(15), 
 city varchar(30), 
 country varchar(30), 
-education varchar(50), 
+education varchar(50),
 photo blob);
